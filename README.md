@@ -6,6 +6,8 @@
 
 <p align="center">
   🇹🇷 Türkiye &nbsp;•&nbsp; .NET &nbsp;•&nbsp; React Native &nbsp;•&nbsp; Expo &nbsp;•&nbsp; Supabase &nbsp;•&nbsp; SQL
+  <br/>
+  🌐 <a href="https://esperancajk.com" target="_blank">esperancajk.com</a>
 </p>
 
 <p align="center">
@@ -16,39 +18,44 @@
 
 ## 🧠 About Me
 
-I’m a **full-stack developer with 5+ years of experience**, building **production-ready backend and mobile systems**.
+I’m a **full-stack & mobile developer with 5+ years of experience**, building **production-ready systems used by real users**.
 
-My main focus is on **event platforms, registration systems, QR-based access control** and **offline-first mobile applications**.  
-I enjoy taking ideas from **zero → production → real users**.
+My core expertise is in **event platforms**, **registration systems**, **QR-based access control**, and **offline-first mobile applications** that must work reliably in real-world conditions (bad internet, high traffic, live events).
+
+I enjoy taking ideas from **zero → production → real users → iteration**.
 
 - 🚀 End-to-end mindset (backend → mobile → infra → monetization)
-- 📱 Strong focus on mobile apps & real-world usage
-- 🧩 I like simple ideas that scale
+- 📱 Mobile-first, real-world focused development
+- 🧩 I like simple ideas that scale cleanly
+- 🛠️ Strong debugging & system ownership mentality
 
 📫 **Email:** 98umut98@gmail.com  
+🌐 **Website / Portfolio:** https://esperancajk.com  
 📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/umut-oztosun/)
 
 ---
 
-## 🔗 Connect With Me
+## 🧱 What I Build
 
-<p align="left">
-  <a href="https://instagram.com/esperanca.jk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" />
-  </a>
-  <a href="https://twitter.com/esperanca_jk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" />
-  </a>
-  <a href="https://linkedin.com/in/umut-oztosun" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
-  </a>
-  <a href="https://stackoverflow.com/users/15168106" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="28" />
-  </a>
-  <a href="https://dev.to/esperancajk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="28" />
-  </a>
-</p>
+- 🎟️ **Event & Registration Platforms**
+  - Participant & delegation systems
+  - Dynamic forms & admin panels
+  - Reporting & analytics
+
+- 🔐 **QR-Based Access Control Systems**
+  - Entry / exit tracking
+  - Offline-first scanning
+  - High-performance APIs for live events
+
+- 📱 **Mobile Applications**
+  - Expo / React Native apps (EAS, OTA, Dev Client)
+  - Flutter & .NET MAUI apps
+  - Camera, QR, push notifications, offline sync
+
+- 💳 **Monetization-Ready Apps**
+  - In-app purchases (RevenueCat)
+  - Credit-based systems
+  - Paywalls & feature gating
 
 ---
 
@@ -93,22 +100,36 @@ I enjoy taking ideas from **zero → production → real users**.
 - Python (automation & scripting)
 - Pandas (data processing & reporting)
 - OpenCV (image & QR processing)
-- AI-assisted tools (TensorFlow / PyTorch – basic usage)
+- AI-assisted tools (LLMs, automation, content pipelines)
 
 ---
 
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esperanca-jk&theme=darkhub&no-frame=true&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esperanca-jk&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-jk&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/esperanca.jk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" />
+  </a>
+  <a href="https://twitter.com/esperanca_jk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" />
+  </a>
+  <a href="https://linkedin.com/in/umut-oztosun" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+  </a>
+  <a href="https://stackoverflow.com/users/15168106" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="28" />
+  </a>
+  <a href="https://dev.to/esperancajk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="28" />
+  </a>
 </p>
 
 ---
